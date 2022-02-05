@@ -1,7 +1,7 @@
 # Build and Deploy nodejs application on EC2 instance - Freestyle 
 #Nothing
 # Pre-requisites
-
+# Modification has been done by Venkat
 1. A Jenkins server 
 1. A EC2 instance (Application server) and deploy node.js 
 
